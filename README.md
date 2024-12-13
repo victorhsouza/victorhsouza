@@ -1,4 +1,4 @@
-### Ola! Eu sou Victor 🤚
+### Ola! Eu sou Victor, programador Fullstack 🤚
 
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxIUpkl45_RllaTMplYMyGw)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-alencar-vitec/)
